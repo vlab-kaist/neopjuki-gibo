@@ -1,3 +1,3 @@
 ## neopjuki-gibo
 
-Learning data for neopjuki.
+play data from puoribor :) 
